@@ -39,7 +39,7 @@
       "price": 2.99
     }
   ],
-  heroes: [
+  "heroes": [
     { "id": 11, "name": "Dr Terrible" },
     { "id": 12, "name": "Narco" },
     { "id": 13, "name": "Bombasto" },
